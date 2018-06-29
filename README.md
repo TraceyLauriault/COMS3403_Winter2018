@@ -170,7 +170,7 @@ This class will take place in Ottawa Room and MADGIC in the library where we exa
 #### Non-compulsory Reading:
 
 * Dodge, Martin and Rob Kitchin (2001) [_The Atlas of Cyberspace_](http://www.kitchin.org/atlas/contents.html)
-Chapters 1 Mapping Cyberspace & 2 Mapping Infrastructure and Traffic, pages10-22, 52-55.
+Chapters 1 Mapping Cyberspace & 2 Mapping Infrastructure and Traffic, pages 10-22, 52-55.
 
 #### Assignment 2 
 
